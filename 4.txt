@@ -1,0 +1,9 @@
+Para esse problema, eu teria de utilizar a temperatura da lâmpada para descobrir qual interruptor controla qual lâmpada.
+
+Primeiro: Basta ligar duas lâmpadas e esperar tempo suficiente para que elas esquentem, já que aqui ele não é limitante
+
+Segundo: Eu desligaria uma das lâmpadas que eu liguei anteriormente
+
+Terceiro: Eu iria até uma das salas e verificaria a lâmpada. Há 3 possibilidades aqui: a lâmpada estar acesa (interruptor aceso), a lâmpada estar apagada e fria (interruptor que eu não mexi) ou a lâmpada estar apagada e quente (interruptor que eu acendi mas apaguei). Com base nessas possibilidades, eu identificaria qual interruptor controla aquela lâmpada
+
+Quarto: Na minha segunda ida até uma das salas, eu também identificaria qual interruptor é referente a aquela lâmpada, além de deduzir que o interruptor restante controla a lâmpada da terceira sala (que eu não fui)
